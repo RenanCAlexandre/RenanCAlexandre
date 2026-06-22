@@ -32,10 +32,10 @@ Sou Bacharel em Ciência da Computação e tenho como foco a construção de apl
 
 ## 💼 Experiência
 
-* Desenvolvedor Full Stack Pleno
-* Desenvolvedor Full Stack Jr
+* Desenvolvedor Full Stack 
 * Analista de Suporte I
 * Assistente de Suporte
+* Analista de Redes e Computadores
 
 ---
 
