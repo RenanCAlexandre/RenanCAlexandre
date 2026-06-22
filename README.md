@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Renan Custódio Alexandre
 
-Desenvolvedor de Software com foco em Java e ecossistema Spring.
+Desenvolvedor de Software.
 
-Atuo no desenvolvimento de sistemas web e APIs, com experiência em ambientes corporativos, evolução de sistemas em produção e participação em todo o ciclo de desenvolvimento de software.
+Atuo no desenvolvimento de soluções de software, com experiência em ambientes corporativos, manutenção de sistemas em produção e evolução de aplicações escaláveis.
 
-Sou Bacharel em Ciência da Computação e tenho como foco a construção de aplicações escaláveis, bem estruturadas e alinhadas a boas práticas de engenharia de software.
+Sou Bacharel em Ciência da Computação e direciono minha atuação para engenharia de software, arquitetura de sistemas e boas práticas de desenvolvimento.
 
 ---
 
@@ -33,9 +33,8 @@ Sou Bacharel em Ciência da Computação e tenho como foco a construção de apl
 ## 💼 Experiência
 
 * Desenvolvedor Full Stack 
-* Analista de Suporte I
+* Analista de Suporte
 * Assistente de Suporte
-* Analista de Redes e Computadores
 
 ---
 
@@ -50,6 +49,14 @@ Sou Bacharel em Ciência da Computação e tenho como foco a construção de apl
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
+
+<div>
+  <a href="https://github.com/RenanCAlexandre" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+
 
 ---
 
